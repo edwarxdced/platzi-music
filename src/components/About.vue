@@ -10,6 +10,6 @@
 			{{$t('p2')}}
 		</p>
 		<br>
-		<a href="https://platzi.com/@edwarxdced/curso/1145-vuejs-profesional/diploma/detalle/" target="_blank">Platzi</a> | <a href=""  target="_blank">GitHub</a>
+		<a href="https://platzi.com/@edwarxdced/curso/1145-vuejs-profesional/diploma/detalle/" target="_blank">Platzi</a> | <a href="https://github.com/edwarxdced/platzi-music"  target="_blank">GitHub</a>
 	</div>
 </template>
